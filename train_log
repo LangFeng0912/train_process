@@ -1,0 +1,125 @@
+[2023-03-12 19:35:56][__main__][INFO] Training Type4Py model
+[2023-03-12 19:35:56][__main__][INFO] ***********************************************************************
+[2023-03-12 19:35:56][__main__][INFO] Loading Variable set...
+[2023-03-12 19:35:56][__main__][INFO] Current memory usage 0.2778587341308594 GB
+[2023-03-12 19:38:34][__main__][INFO] Current memory usage 27.110309600830078 GB
+[2023-03-12 19:39:42][__main__][INFO] Current memory usage 45.348350524902344 GB
+[2023-03-12 19:40:18][__main__][INFO] Current memory usage 54.24106216430664 GB
+[2023-03-12 19:40:19][__main__][INFO] Current memory usage 54.249752044677734 GB
+[2023-03-12 19:40:19][__main__][INFO] Current memory usage 54.25382995605469 GB
+[2023-03-12 19:40:47][__main__][INFO] Loaded train set of the complete dataset in 4.84 min
+[2023-03-12 19:40:47][__main__][INFO] Train and Valid data loaded
+[2023-03-12 19:41:06][__main__][INFO] Percentage of ubiquitous types: 45.86%
+[2023-03-12 19:41:06][__main__][INFO] Percentage of common types: 40.04%
+[2023-03-12 19:41:09][__main__][INFO] Intializing the Type4Py model
+[2023-03-12 20:34:56][type4py.predict][INFO] epoch: 1 train loss: 267.314710482955
+[2023-03-12 21:27:10][type4py.predict][INFO] epoch: 2 train loss: 198.89630830287933
+[2023-03-12 22:19:47][type4py.predict][INFO] epoch: 3 train loss: 163.32879050076008
+[2023-03-12 23:12:03][type4py.predict][INFO] epoch: 4 train loss: 152.2880805283785
+[2023-03-13 00:04:18][type4py.predict][INFO] epoch: 5 train loss: 146.70939847826958
+[2023-03-13 00:56:34][type4py.predict][INFO] epoch: 6 train loss: 142.67421861737967
+[2023-03-13 01:48:54][type4py.predict][INFO] epoch: 7 train loss: 138.9348272383213
+[2023-03-13 02:41:11][type4py.predict][INFO] epoch: 8 train loss: 136.5312510356307
+[2023-03-13 03:33:28][type4py.predict][INFO] epoch: 9 train loss: 133.9513558074832
+[2023-03-13 04:25:46][type4py.predict][INFO] epoch: 10 train loss: 131.65798112750053
+[2023-03-13 05:18:00][type4py.predict][INFO] epoch: 11 train loss: 129.65911250561476
+[2023-03-13 06:10:16][type4py.predict][INFO] epoch: 12 train loss: 128.15493507683277
+[2023-03-13 07:02:32][type4py.predict][INFO] epoch: 13 train loss: 126.4364400357008
+[2023-03-13 07:54:50][type4py.predict][INFO] epoch: 14 train loss: 125.33344738185406
+[2023-03-13 08:47:11][type4py.predict][INFO] epoch: 15 train loss: 124.09994958341122
+[2023-03-13 09:39:36][type4py.predict][INFO] epoch: 16 train loss: 122.87629643827677
+[2023-03-13 10:31:56][type4py.predict][INFO] epoch: 17 train loss: 122.14084565639496
+[2023-03-13 11:25:26][type4py.predict][INFO] epoch: 18 train loss: 121.11404037848115
+[2023-03-13 12:20:07][type4py.predict][INFO] epoch: 19 train loss: 120.91821487247944
+[2023-03-13 13:15:14][type4py.predict][INFO] epoch: 20 train loss: 119.95083256810904
+[2023-03-13 14:10:15][type4py.predict][INFO] epoch: 21 train loss: 119.56643325835466
+[2023-03-13 15:04:11][type4py.predict][INFO] epoch: 22 train loss: 119.46894505247474
+[2023-03-13 15:58:29][type4py.predict][INFO] epoch: 23 train loss: 118.97480005025864
+[2023-03-13 16:53:15][type4py.predict][INFO] epoch: 24 train loss: 118.22936303913593
+[2023-03-13 17:48:14][type4py.predict][INFO] epoch: 25 train loss: 117.05775359272957
+[2023-03-13 17:48:14][type4py.predict][INFO] Training finished for var type set in 1327.07 min
+[2023-03-13 17:48:14][type4py.predict][INFO] Current memory usage before free mem 57.083396911621094 GB
+[2023-03-13 17:48:15][type4py.predict][INFO] Current memory usage after free mem 57.083152770996094 GB
+[2023-03-13 17:48:15][type4py.predict][INFO] Saved the trained Type4Py model for complete prediction on the disk
+[2023-03-13 18:17:18][__main__][INFO] Training Type4Py model
+[2023-03-13 18:17:18][__main__][INFO] ***********************************************************************
+[2023-03-13 18:17:18][__main__][INFO] Loading param type set...
+[2023-03-13 18:17:18][__main__][INFO] Current memory usage 0.2777290344238281 GB
+[2023-03-13 18:18:33][__main__][INFO] Current memory usage 11.766670227050781 GB
+[2023-03-13 18:19:05][__main__][INFO] Current memory usage 19.610477447509766 GB
+[2023-03-13 18:19:19][__main__][INFO] Current memory usage 23.43482208251953 GB
+[2023-03-13 18:19:19][__main__][INFO] Current memory usage 23.43856430053711 GB
+[2023-03-13 18:19:19][__main__][INFO] Current memory usage 23.440032958984375 GB
+[2023-03-13 18:19:31][__main__][INFO] Loaded train set of the complete dataset in 2.21 min
+[2023-03-13 18:19:31][__main__][INFO] Train and Valid data loaded
+[2023-03-13 18:19:40][__main__][INFO] Percentage of ubiquitous types: 44.35%
+[2023-03-13 18:19:40][__main__][INFO] Percentage of common types: 34.04%
+[2023-03-13 18:19:40][__main__][INFO] Loading saved var data model...
+[2023-03-13 18:30:22][type4py.predict][INFO] epoch: 1 train loss: 127.18715235590935
+[2023-03-13 18:41:03][type4py.predict][INFO] epoch: 2 train loss: 108.16470466554165
+[2023-03-13 18:51:41][type4py.predict][INFO] epoch: 3 train loss: 101.05115543305874
+[2023-03-13 19:02:14][type4py.predict][INFO] epoch: 4 train loss: 97.19085757434368
+[2023-03-13 19:12:47][type4py.predict][INFO] epoch: 5 train loss: 94.1957623064518
+[2023-03-13 19:23:15][type4py.predict][INFO] epoch: 6 train loss: 90.89390172064304
+[2023-03-13 19:33:13][type4py.predict][INFO] epoch: 7 train loss: 89.31062534451485
+[2023-03-13 19:43:14][type4py.predict][INFO] epoch: 8 train loss: 87.38728818297386
+[2023-03-13 19:53:12][type4py.predict][INFO] epoch: 9 train loss: 85.41228564083576
+[2023-03-13 20:03:13][type4py.predict][INFO] epoch: 10 train loss: 84.16570542752743
+[2023-03-13 20:13:12][type4py.predict][INFO] epoch: 11 train loss: 83.39766557514668
+[2023-03-13 20:23:15][type4py.predict][INFO] epoch: 12 train loss: 81.94784228503704
+[2023-03-13 20:33:13][type4py.predict][INFO] epoch: 13 train loss: 80.61153891682625
+[2023-03-13 20:43:16][type4py.predict][INFO] epoch: 14 train loss: 80.07388895750046
+[2023-03-13 20:53:15][type4py.predict][INFO] epoch: 15 train loss: 79.50523632764816
+[2023-03-13 21:03:16][type4py.predict][INFO] epoch: 16 train loss: 78.59629943966866
+[2023-03-13 21:13:16][type4py.predict][INFO] epoch: 17 train loss: 77.91207146644592
+[2023-03-13 21:23:16][type4py.predict][INFO] epoch: 18 train loss: 77.43843868374825
+[2023-03-13 21:33:14][type4py.predict][INFO] epoch: 19 train loss: 76.83491741120815
+[2023-03-13 21:43:13][type4py.predict][INFO] epoch: 20 train loss: 76.35350857675076
+[2023-03-13 21:53:11][type4py.predict][INFO] epoch: 21 train loss: 75.17989613115788
+[2023-03-13 22:03:11][type4py.predict][INFO] epoch: 22 train loss: 75.1959026902914
+[2023-03-13 22:13:08][type4py.predict][INFO] epoch: 23 train loss: 74.47567474842072
+[2023-03-13 22:23:10][type4py.predict][INFO] epoch: 24 train loss: 74.00365562736988
+[2023-03-13 22:33:10][type4py.predict][INFO] epoch: 25 train loss: 73.60261225700378
+[2023-03-13 22:33:10][type4py.predict][INFO] Training finished for var type set in 253.46 min
+[2023-03-13 22:33:10][type4py.predict][INFO] Saved the trained Type4Py model for complete prediction on the disk
+[2023-03-16 14:52:52][__main__][INFO] Training Type4Py model
+[2023-03-16 14:52:52][__main__][INFO] ***********************************************************************
+[2023-03-16 14:52:52][__main__][INFO] Loading return type set...
+[2023-03-16 14:52:52][__main__][INFO] Current memory usage 0.277679443359375 GB
+[2023-03-16 14:53:26][__main__][INFO] Current memory usage 4.8308563232421875 GB
+[2023-03-16 14:53:37][__main__][INFO] Current memory usage 7.9616241455078125 GB
+[2023-03-16 14:53:42][__main__][INFO] Current memory usage 9.489830017089844 GB
+[2023-03-16 14:53:42][__main__][INFO] Current memory usage 9.491329193115234 GB
+[2023-03-16 14:53:42][__main__][INFO] Current memory usage 9.49197769165039 GB
+[2023-03-16 14:53:47][__main__][INFO] Loaded train set of the complete dataset in 0.92 min
+[2023-03-16 14:53:47][__main__][INFO] Train and Valid data loaded
+[2023-03-16 14:53:50][__main__][INFO] Percentage of ubiquitous types: 40.36%
+[2023-03-16 14:53:50][__main__][INFO] Percentage of common types: 37.52%
+[2023-03-16 14:53:50][__main__][INFO] Loading saved var and param data model...
+[2023-03-16 14:55:24][type4py.predict][INFO] epoch: 1 train loss: 62.09013280272484
+[2023-03-16 14:56:55][type4py.predict][INFO] epoch: 2 train loss: 51.94469368457794
+[2023-03-16 14:58:29][type4py.predict][INFO] epoch: 3 train loss: 48.456057488918304
+[2023-03-16 14:59:58][type4py.predict][INFO] epoch: 4 train loss: 46.16314685344696
+[2023-03-16 15:01:29][type4py.predict][INFO] epoch: 5 train loss: 44.41921076178551
+[2023-03-16 15:03:04][type4py.predict][INFO] epoch: 6 train loss: 43.24011206626892
+[2023-03-16 15:04:36][type4py.predict][INFO] epoch: 7 train loss: 42.29192832112312
+[2023-03-16 15:06:06][type4py.predict][INFO] epoch: 8 train loss: 41.09947195649147
+[2023-03-16 15:07:36][type4py.predict][INFO] epoch: 9 train loss: 40.15323767066002
+[2023-03-16 15:09:14][type4py.predict][INFO] epoch: 10 train loss: 40.04946604371071
+[2023-03-16 15:10:45][type4py.predict][INFO] epoch: 11 train loss: 39.27119633555412
+[2023-03-16 15:12:16][type4py.predict][INFO] epoch: 12 train loss: 38.41166879236698
+[2023-03-16 15:13:46][type4py.predict][INFO] epoch: 13 train loss: 37.54691030085087
+[2023-03-16 15:15:19][type4py.predict][INFO] epoch: 14 train loss: 37.1139657497406
+[2023-03-16 15:16:48][type4py.predict][INFO] epoch: 15 train loss: 36.60662245750427
+[2023-03-16 15:18:19][type4py.predict][INFO] epoch: 16 train loss: 35.987561240792274
+[2023-03-16 15:19:52][type4py.predict][INFO] epoch: 17 train loss: 35.8854865282774
+[2023-03-16 15:21:24][type4py.predict][INFO] epoch: 18 train loss: 35.249758809804916
+[2023-03-16 15:22:55][type4py.predict][INFO] epoch: 19 train loss: 35.11975160241127
+[2023-03-16 15:24:25][type4py.predict][INFO] epoch: 20 train loss: 34.307120591402054
+[2023-03-16 15:25:55][type4py.predict][INFO] epoch: 21 train loss: 34.469019293785095
+[2023-03-16 15:27:25][type4py.predict][INFO] epoch: 22 train loss: 33.868900656700134
+[2023-03-16 15:28:57][type4py.predict][INFO] epoch: 23 train loss: 33.86496917903423
+[2023-03-16 15:30:33][type4py.predict][INFO] epoch: 24 train loss: 33.40966922044754
+[2023-03-16 15:32:02][type4py.predict][INFO] epoch: 25 train loss: 33.465887904167175
+[2023-03-16 15:32:02][type4py.predict][INFO] Training finished for var type set in 38.18 min
+[2023-03-16 15:32:02][type4py.predict][INFO] Saved the trained Type4Py model for complete prediction on the disk
