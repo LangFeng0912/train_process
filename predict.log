@@ -1,0 +1,75 @@
+[2023-03-18 15:30:28][__main__][INFO] Testing Type4Py model
+[2023-03-18 15:30:28][__main__][INFO] **********************************************************************
+[2023-03-18 15:30:32][__main__][INFO] Loaded the pre-trained Type4Py complete model
+[2023-03-18 15:30:32][__main__][INFO] Type4Py's trainable parameters: 9,750,016
+[2023-03-18 15:30:32][__main__][INFO] Checking the existing AnnoyIndex...
+[2023-03-18 15:30:32][__main__][INFO] No existing AnnoyIndex found, started to initialising
+[2023-03-18 15:30:32][__main__][INFO] Checking the existing Embedding labels...
+[2023-03-18 15:30:32][__main__][INFO] No existing Embedding file found, started to initialising
+[2023-03-18 15:30:32][__main__][INFO] Loading train and valid sets for datatype var
+[2023-03-18 15:30:32][__main__][INFO] Loading Variable set...
+[2023-03-18 15:30:32][__main__][INFO] Current memory usage 1.62628173828125 GB
+[2023-03-18 15:32:58][__main__][INFO] Current memory usage 28.328914642333984 GB
+[2023-03-18 15:34:13][__main__][INFO] Current memory usage 46.56683349609375 GB
+[2023-03-18 15:34:59][__main__][INFO] Current memory usage 55.45954132080078 GB
+[2023-03-18 15:35:00][__main__][INFO] Current memory usage 55.47105407714844 GB
+[2023-03-18 15:35:00][__main__][INFO] Current memory usage 55.47105407714844 GB
+[2023-03-18 15:35:30][__main__][INFO] Loaded train set of the complete dataset in 4.95 min
+[2023-03-18 15:35:30][__main__][INFO] Current memory usage 53.316871643066406 GB
+[2023-03-18 15:35:54][__main__][INFO] Current memory usage 57.5319709777832 GB
+[2023-03-18 15:36:04][__main__][INFO] Current memory usage 60.387359619140625 GB
+[2023-03-18 15:36:13][__main__][INFO] Loaded valid set of the complete dataset
+[2023-03-18 15:36:13][__main__][INFO] Train and Valid data loaded
+[2023-03-18 15:36:13][__main__][INFO] Type Cluster building begin...
+[2023-03-18 17:08:28][__main__][INFO] Created type clusters
+[2023-03-18 17:09:03][__main__][INFO] Saved type clusters
+[2023-03-18 17:14:29][__main__][INFO] Testing Type4Py model
+[2023-03-18 17:14:29][__main__][INFO] **********************************************************************
+[2023-03-18 17:14:33][__main__][INFO] Loaded the pre-trained Type4Py complete model
+[2023-03-18 17:14:33][__main__][INFO] Type4Py's trainable parameters: 9,750,016
+[2023-03-18 17:14:33][__main__][INFO] Checking the existing AnnoyIndex...
+[2023-03-18 17:14:33][__main__][INFO] find existing TypeCluster file: type4py_complete_type_cluster_var!
+[2023-03-18 17:14:33][__main__][INFO] Checking the existing Embedding labels...
+[2023-03-18 17:14:33][__main__][INFO] find existing Embedding file: type4py_complete_true_var.npy!
+[2023-03-18 17:14:33][__main__][INFO] Loading train and valid sets for datatype param
+[2023-03-18 17:14:33][__main__][INFO] Loading param type set...
+[2023-03-18 17:14:33][__main__][INFO] Current memory usage 1.6190719604492188 GB
+[2023-03-18 17:15:30][__main__][INFO] Current memory usage 12.983577728271484 GB
+[2023-03-18 17:15:57][__main__][INFO] Current memory usage 20.827144622802734 GB
+[2023-03-18 17:16:09][__main__][INFO] Current memory usage 24.6514892578125 GB
+[2023-03-18 17:16:10][__main__][INFO] Current memory usage 24.652469635009766 GB
+[2023-03-18 17:16:10][__main__][INFO] Current memory usage 24.652469635009766 GB
+[2023-03-18 17:16:22][__main__][INFO] Loaded train set of the complete dataset in 1.82 min
+[2023-03-18 17:16:23][__main__][INFO] Current memory usage 23.757125854492188 GB
+[2023-03-18 17:16:28][__main__][INFO] Current memory usage 25.270824432373047 GB
+[2023-03-18 17:16:32][__main__][INFO] Current memory usage 26.296241760253906 GB
+[2023-03-18 17:16:35][__main__][INFO] Loaded valid set of the complete dataset
+[2023-03-18 17:16:35][__main__][INFO] Train and Valid data loaded
+[2023-03-18 17:16:35][__main__][INFO] Type Cluster building begin...
+[2023-03-18 17:38:37][__main__][INFO] Created type clusters
+[2023-03-18 17:39:31][__main__][INFO] Saved type clusters
+[2023-03-18 20:01:01][__main__][INFO] Testing Type4Py model
+[2023-03-18 20:01:01][__main__][INFO] **********************************************************************
+[2023-03-18 20:01:04][__main__][INFO] Loaded the pre-trained Type4Py complete model
+[2023-03-18 20:01:04][__main__][INFO] Type4Py's trainable parameters: 9,750,016
+[2023-03-18 20:01:04][__main__][INFO] Checking the existing AnnoyIndex...
+[2023-03-18 20:01:04][__main__][INFO] find existing TypeCluster file: type4py_complete_type_cluster_var_param!
+[2023-03-18 20:01:04][__main__][INFO] Checking the existing Embedding labels...
+[2023-03-18 20:01:04][__main__][INFO] find existing Embedding file: type4py_complete_true_var_param.npy!
+[2023-03-18 20:01:04][__main__][INFO] Loading train and valid sets for datatype ret
+[2023-03-18 20:01:04][__main__][INFO] Loading return type set...
+[2023-03-18 20:01:04][__main__][INFO] Current memory usage 1.6247711181640625 GB
+[2023-03-18 20:01:48][__main__][INFO] Current memory usage 6.029197692871094 GB
+[2023-03-18 20:02:02][__main__][INFO] Current memory usage 9.162200927734375 GB
+[2023-03-18 20:02:06][__main__][INFO] Current memory usage 10.690410614013672 GB
+[2023-03-18 20:02:06][__main__][INFO] Current memory usage 10.690414428710938 GB
+[2023-03-18 20:02:06][__main__][INFO] Current memory usage 10.690414428710938 GB
+[2023-03-18 20:02:11][__main__][INFO] Loaded train set of the complete dataset in 1.11 min
+[2023-03-18 20:02:11][__main__][INFO] Current memory usage 9.355133056640625 GB
+[2023-03-18 20:02:13][__main__][INFO] Current memory usage 10.024845123291016 GB
+[2023-03-18 20:02:17][__main__][INFO] Current memory usage 10.478408813476562 GB
+[2023-03-18 20:02:18][__main__][INFO] Loaded valid set of the complete dataset
+[2023-03-18 20:02:18][__main__][INFO] Train and Valid data loaded
+[2023-03-18 20:02:18][__main__][INFO] Type Cluster building begin...
+[2023-03-18 20:11:00][__main__][INFO] Created type clusters
+[2023-03-18 20:12:00][__main__][INFO] Saved type clusters
