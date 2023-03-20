@@ -1,0 +1,4 @@
+[2023-03-19 20:19:24][__main__][INFO] Loaded type clusters
+[2023-03-19 20:24:14][__main__][INFO] Applying PCA to type clusters to reduce dimension from 1536 to 256
+[2023-03-19 21:22:53][__main__][INFO] Building the reduced type clusters
+[2023-03-19 21:24:44][__main__][INFO] Saved the reduced type clusters on the disk
